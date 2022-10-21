@@ -6,14 +6,6 @@
   }
   
   body {
-    /* background:  hsl(185, 75%, 39%);
-    background-image: url("./images/bg-pattern-top.svg"),
-      url("./images/bg-pattern-bottom.svg");
-    background-repeat: no-repeat;
-    background-position: left -80% top 140%, right -70% bottom 160%;
-    padding: 50px;
-    display: flex;
-    justify-content: center; */
      background-color: #19a1ae;
   display: flex;
   align-items: center;
